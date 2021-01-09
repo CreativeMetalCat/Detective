@@ -50442,6 +50442,12 @@
           <e p="DetectiveUE4HUD.h" t="Include" />
           <e p="DetectiveUE4Projectile.cpp" t="Include" />
           <e p="DetectiveUE4Projectile.h" t="Include" />
+          <e p="InteractionInterface.cpp" t="Include" />
+          <e p="InteractionInterface.h" t="Include" />
+          <e p="Item" t="Include">
+            <e p="ItemBase.cpp" t="Include" />
+            <e p="ItemBase.h" t="Include" />
+          </e>
         </e>
         <e p="DetectiveUE4.Target.cs" t="Include" />
         <e p="DetectiveUE4Editor.Target.cs" t="Include" />

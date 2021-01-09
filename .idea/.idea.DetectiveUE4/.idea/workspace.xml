@@ -20,6 +20,9 @@
       <option value="$PROJECT_DIR$/Source/DetectiveUE4/AI/AIInterface.h" />
       <option value="$PROJECT_DIR$/Source/DetectiveUE4/AI/AIInterface.cpp" />
       <option value="$PROJECT_DIR$/Source/DetectiveUE4/AI/AIAction.cpp" />
+      <option value="$PROJECT_DIR$/Source/DetectiveUE4/InteractionInterface.h" />
+      <option value="$PROJECT_DIR$/Source/DetectiveUE4/Item/ItemBase.h" />
+      <option value="$PROJECT_DIR$/Source/DetectiveUE4/Item/ItemBase.cpp" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1mgAhdzZWsthbJMHHkZuw6UgbFw" />

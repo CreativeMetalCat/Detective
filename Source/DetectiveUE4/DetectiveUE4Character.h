@@ -19,10 +19,6 @@ class ADetectiveUE4Character : public ACharacter
 {
 	GENERATED_BODY()
 
-	/** First person camera */
-	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
-	UCameraComponent* FirstPersonCameraComponent;
-
 
 public:
 	ADetectiveUE4Character();
@@ -65,8 +61,6 @@ protected:
 	// End of APawn interface
 
 public:
-	/** Returns FirstPersonCameraComponent subobject **/
-	UCameraComponent* GetFirstPersonCameraComponent() const { return FirstPersonCameraComponent; }
 
 };
 
